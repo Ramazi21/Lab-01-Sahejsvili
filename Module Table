@@ -3,4 +3,4 @@
 |InputModule| |InputMethod()| |int n = input.InputMethod()| |int n| |Ввод данных, необходим для последующей работы программы|
 |ProcessModule| |ProcessMethod| |Process.ProcessMethod()| |int n| |Основной функционал программы. Выясняет простое ли число n и показывает результат|
 |ValidationModule| |ValidationMethod| |Validation.ProcessMethod()| |int n| |Проверка корректности ввода данных|
-|--------------------------------------------------------------------------|
+
